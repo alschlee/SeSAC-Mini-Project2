@@ -1,4 +1,4 @@
-# 🌱 SeSAC Cloud Camp Mini Project 2 🌱
+# SeSAC Cloud Camp Mini Project 2
 
 ## Project Overview
 
