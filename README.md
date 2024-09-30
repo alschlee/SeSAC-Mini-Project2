@@ -16,3 +16,6 @@
 - **데이터 연계**: 프론트엔드와 백엔드를 연계하여 데이터를 가져오고 출력합니다.
 - **배포**: 실습에 사용한 가상 머신에 개발한 애플리케이션을 배포합니다.
 - **서비스 접근**: 호스트 PC에서 `http://www.test.com`으로 접속하면 서비스가 제공됩니다.
+
+## Result
+![result](https://github.com/user-attachments/assets/a843cd8a-bd01-4c41-8cfc-7df253022d0c)
