@@ -36,9 +36,10 @@
 │       │   └── App.js             # 메인 애플리케이션 컴포넌트
 │       ├── Dockerfile              # 프론트엔드 도커 이미지 빌드 설정
 │       └── package.json            # 프론트엔드 프로젝트 의존성 및 스크립트 관리
-└── 📁 BE
-    ├── 📁 __pycache__              # 파이썬 컴파일된 파일 저장 (자동 생성)
-    ├── Dockerfile                   # 백엔드 도커 이미지 빌드 설정
-    ├── main.py                      # 백엔드 애플리케이션의 메인 코드
-    └── requirements.txt             # 백엔드 프로젝트 의존성 목록
+├── 📁 BE
+│   ├── 📁 __pycache__              # 파이썬 컴파일된 파일 저장(자동 생성)
+│   ├── Dockerfile                   # 백엔드 도커 이미지 빌드 설정
+│   ├── main.py                      # 백엔드 애플리케이션의 메인 코드
+│   └── requirements.txt             # 백엔드 프로젝트 의존성 목록
+└── leejingyeong.yaml            # Kubernetes 매니페스트 파일
 ```
